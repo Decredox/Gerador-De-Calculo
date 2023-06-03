@@ -7,3 +7,5 @@ Caso caia u numero quebrado ex:
 3/7 = 0.7....
 
 digite apenas uma casa decimal depois da virgula.
+
+https://geradordecalculo.coffecoelho.repl.co
